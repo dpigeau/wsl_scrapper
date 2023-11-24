@@ -1,0 +1,86 @@
+[
+    {
+        "round_id": "21518",
+        "heat_id": "92411",
+        "athlete_id": "3896",
+        "athlete_name": "K. Igarashi",
+        "total_score": 11.03
+    },
+    {
+        "round_id": "21518",
+        "heat_id": "92411",
+        "athlete_id": "2251",
+        "athlete_name": "M. Rodrigues",
+        "total_score": 9.03
+    },
+    {
+        "round_id": "21518",
+        "heat_id": "92411",
+        "athlete_id": "3950",
+        "athlete_name": "J. Moniz",
+        "total_score": 8.87
+    },
+    {
+        "round_id": "21518",
+        "heat_id": "92412",
+        "athlete_id": "3994",
+        "athlete_name": "Y. Dora",
+        "total_score": 13.43
+    },
+    {
+        "round_id": "21518",
+        "heat_id": "92412",
+        "athlete_id": "616",
+        "athlete_name": "M. Huscenot",
+        "total_score": 8.27
+    },
+    {
+        "round_id": "21518",
+        "heat_id": "92412",
+        "athlete_id": "4491",
+        "athlete_name": "I. deVault",
+        "total_score": 4.33
+    },
+    {
+        "round_id": "21518",
+        "heat_id": "92413",
+        "athlete_id": "3737",
+        "athlete_name": "M. McGillivray",
+        "total_score": 6.93
+    },
+    {
+        "round_id": "21518",
+        "heat_id": "92413",
+        "athlete_id": "2656",
+        "athlete_name": "L. Fioravanti",
+        "total_score": 7.6
+    },
+    {
+        "round_id": "21518",
+        "heat_id": "92413",
+        "athlete_id": "1717",
+        "athlete_name": "C. Munoz",
+        "total_score": 7.14
+    },
+    {
+        "round_id": "21518",
+        "heat_id": "92414",
+        "athlete_id": "1164",
+        "athlete_name": "K. Andino",
+        "total_score": 9.43
+    },
+    {
+        "round_id": "21518",
+        "heat_id": "92414",
+        "athlete_id": "466",
+        "athlete_name": "J. Andre",
+        "total_score": 4.87
+    },
+    {
+        "round_id": "21518",
+        "heat_id": "92414",
+        "athlete_id": "2618",
+        "athlete_name": "I. Gentil",
+        "total_score": 8.13
+    }
+]

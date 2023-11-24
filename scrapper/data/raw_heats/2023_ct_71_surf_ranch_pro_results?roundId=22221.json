@@ -1,0 +1,58 @@
+[
+    {
+        "round_id": "22221",
+        "heat_id": "95371",
+        "athlete_id": "3165",
+        "athlete_name": "G. Colapinto",
+        "total_score": 14.67
+    },
+    {
+        "round_id": "22221",
+        "heat_id": "95371",
+        "athlete_id": "3994",
+        "athlete_name": "Y. Dora",
+        "total_score": 9.43
+    },
+    {
+        "round_id": "22221",
+        "heat_id": "95372",
+        "athlete_id": "1456",
+        "athlete_name": "F. Toledo",
+        "total_score": 17.2
+    },
+    {
+        "round_id": "22221",
+        "heat_id": "95372",
+        "athlete_id": "2656",
+        "athlete_name": "L. Fioravanti",
+        "total_score": 16.17
+    },
+    {
+        "round_id": "22221",
+        "heat_id": "95373",
+        "athlete_id": "4133",
+        "athlete_name": "E. Ewing",
+        "total_score": 16.67
+    },
+    {
+        "round_id": "22221",
+        "heat_id": "95373",
+        "athlete_id": "1085",
+        "athlete_name": "G. Medina",
+        "total_score": 16.67
+    },
+    {
+        "round_id": "22221",
+        "heat_id": "95374",
+        "athlete_id": "1737",
+        "athlete_name": "I. Ferreira",
+        "total_score": 17.27
+    },
+    {
+        "round_id": "22221",
+        "heat_id": "95374",
+        "athlete_id": "9167",
+        "athlete_name": "J. Chianca",
+        "total_score": 8.33
+    }
+]

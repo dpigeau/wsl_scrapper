@@ -1,0 +1,114 @@
+[
+    {
+        "round_id": "22722",
+        "heat_id": "96298",
+        "athlete_id": "3165",
+        "athlete_name": "G. Colapinto",
+        "total_score": 10.16
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96298",
+        "athlete_id": "3774",
+        "athlete_name": "M. Drollet",
+        "total_score": 8.66
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96299",
+        "athlete_id": "3896",
+        "athlete_name": "K. Igarashi",
+        "total_score": 7.5
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96299",
+        "athlete_id": "9112",
+        "athlete_name": "R. Waida",
+        "total_score": 10.07
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96300",
+        "athlete_id": "9167",
+        "athlete_name": "J. Chianca",
+        "total_score": 4.9
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96300",
+        "athlete_id": "8990",
+        "athlete_name": "K. Vaast",
+        "total_score": 13.0
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96301",
+        "athlete_id": "3962",
+        "athlete_name": "B. Mamiya",
+        "total_score": 9.83
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96301",
+        "athlete_id": "9654",
+        "athlete_name": "C. Robson",
+        "total_score": 3.96
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96302",
+        "athlete_id": "1760",
+        "athlete_name": "R. Callinan",
+        "total_score": 12.5
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96302",
+        "athlete_id": "553",
+        "athlete_name": "K. Slater",
+        "total_score": 14.27
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96303",
+        "athlete_id": "2618",
+        "athlete_name": "I. Gentil",
+        "total_score": 8.0
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96303",
+        "athlete_id": "3737",
+        "athlete_name": "M. McGillivray",
+        "total_score": 3.17
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96304",
+        "athlete_id": "2838",
+        "athlete_name": "C. O'Leary",
+        "total_score": 9.66
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96304",
+        "athlete_id": "3955",
+        "athlete_name": "S. Moniz",
+        "total_score": 12.23
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96305",
+        "athlete_id": "1291",
+        "athlete_name": "C. Ibelli",
+        "total_score": 10.84
+    },
+    {
+        "round_id": "22722",
+        "heat_id": "96305",
+        "athlete_id": "6963",
+        "athlete_name": "L. O'Brien",
+        "total_score": 11.0
+    }
+]

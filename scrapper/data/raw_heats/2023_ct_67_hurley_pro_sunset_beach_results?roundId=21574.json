@@ -1,0 +1,86 @@
+[
+    {
+        "round_id": "21574",
+        "heat_id": "92724",
+        "athlete_id": "3442",
+        "athlete_name": "J. Robinson",
+        "total_score": 8.5
+    },
+    {
+        "round_id": "21574",
+        "heat_id": "92724",
+        "athlete_id": "3812",
+        "athlete_name": "J. Baker",
+        "total_score": 9.77
+    },
+    {
+        "round_id": "21574",
+        "heat_id": "92724",
+        "athlete_id": "9591",
+        "athlete_name": "K. Lenny",
+        "total_score": 8.0
+    },
+    {
+        "round_id": "21574",
+        "heat_id": "92725",
+        "athlete_id": "2838",
+        "athlete_name": "C. O'Leary",
+        "total_score": 5.93
+    },
+    {
+        "round_id": "21574",
+        "heat_id": "92725",
+        "athlete_id": "2618",
+        "athlete_name": "I. Gentil",
+        "total_score": 14.34
+    },
+    {
+        "round_id": "21574",
+        "heat_id": "92725",
+        "athlete_id": "1677",
+        "athlete_name": "K. Asing",
+        "total_score": 8.0
+    },
+    {
+        "round_id": "21574",
+        "heat_id": "92726",
+        "athlete_id": "2656",
+        "athlete_name": "L. Fioravanti",
+        "total_score": 9.87
+    },
+    {
+        "round_id": "21574",
+        "heat_id": "92726",
+        "athlete_id": "9112",
+        "athlete_name": "R. Waida",
+        "total_score": 9.1
+    },
+    {
+        "round_id": "21574",
+        "heat_id": "92726",
+        "athlete_id": "1957",
+        "athlete_name": "E. Lau",
+        "total_score": 5.93
+    },
+    {
+        "round_id": "21574",
+        "heat_id": "92727",
+        "athlete_id": "3737",
+        "athlete_name": "M. McGillivray",
+        "total_score": 9.63
+    },
+    {
+        "round_id": "21574",
+        "heat_id": "92727",
+        "athlete_id": "139",
+        "athlete_name": "N. Young",
+        "total_score": 11.4
+    },
+    {
+        "round_id": "21574",
+        "heat_id": "92727",
+        "athlete_id": "616",
+        "athlete_name": "M. Huscenot",
+        "total_score": 4.5
+    }
+]
