@@ -1,11 +1,11 @@
-[0m14:09:08.866980 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x105ed3b90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x106267a10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10671be50>]}
+[0m17:29:30.035928 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1051fab50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1050c3290>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10546ab90>]}
 
 
-============================== 14:09:08.868969 | 190c06b5-ea78-423a-b955-84693c9d2ec5 ==============================
-[0m14:09:08.868969 [info ] [MainThread]: Running with dbt=1.7.2
-[0m14:09:08.869297 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'profiles_dir': '/Users/davidpigeau/.dbt', 'log_path': 'logs', 'fail_fast': 'False', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'invocation_command': 'dbt init', 'introspect': 'True', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
-[0m14:09:23.665096 [debug] [MainThread]: Starter project path: /Users/davidpigeau/.ve/wsl/lib/python3.11/site-packages/dbt/include/starter_project
-[0m14:09:23.675084 [info ] [MainThread]: 
+============================== 17:29:30.037915 | 92f5f368-50a1-4657-b431-83820b078c6c ==============================
+[0m17:29:30.037915 [info ] [MainThread]: Running with dbt=1.7.2
+[0m17:29:30.038227 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/davidpigeau/.dbt', 'version_check': 'True', 'debug': 'False', 'log_path': 'logs', 'fail_fast': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'invocation_command': 'dbt init', 'introspect': 'True', 'static_parser': 'True', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m17:29:37.285273 [debug] [MainThread]: Starter project path: /Users/davidpigeau/.ve/wsl/lib/python3.11/site-packages/dbt/include/starter_project
+[0m17:29:37.295001 [info ] [MainThread]: 
 Your new dbt project "wsl_analytics" was created!
 
 For more information on how to configure the profiles.yml file,
@@ -21,8 +21,8 @@ Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
 
 Happy modeling!
 
-[0m14:09:23.675676 [info ] [MainThread]: Setting up your profile.
-[0m14:09:33.934608 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 25.091969, "process_user_time": 0.888043, "process_kernel_time": 0.098953, "process_mem_max_rss": "127303680", "process_in_blocks": "0", "process_out_blocks": "0"}
-[0m14:09:33.935045 [debug] [MainThread]: Command `dbt init` succeeded at 14:09:33.934950 after 25.09 seconds
-[0m14:09:33.935259 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x106719e50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x101173850>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10639c310>]}
-[0m14:09:33.935486 [debug] [MainThread]: Flushing usage events
+[0m17:29:37.295572 [info ] [MainThread]: Setting up your profile.
+[0m17:29:41.650333 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 11.640488, "process_user_time": 0.897508, "process_kernel_time": 0.086113, "process_mem_max_rss": "125550592", "process_in_blocks": "0", "process_out_blocks": "0"}
+[0m17:29:41.650797 [debug] [MainThread]: Command `dbt init` succeeded at 17:29:41.650696 after 11.64 seconds
+[0m17:29:41.651043 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x105476390>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10049ddd0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x104e646d0>]}
+[0m17:29:41.651294 [debug] [MainThread]: Flushing usage events

@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "DuckDB",
+            "name": "test",
+            "group": "test",
+            "database": "${workspaceFolder:wsl_scrapper}/dev.duckdb"
+        }
+    ]
+}

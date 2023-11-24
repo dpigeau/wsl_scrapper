@@ -1,0 +1,1 @@
+SELECT * FROM my_first_dbt_model;
