@@ -1,0 +1,32 @@
+version: 2
+
+sources:
+    - name: dev
+      database: dev
+      schema: raw
+      tables:
+        - name: heats
+          description: "Surfer's heat final scores from the event result pages"
+          columns:
+            - name: round_id
+              description: "Round unique identifier"
+              tests:
+                - not_null
+            - name: heat_id
+              description: "Heat unique identifier"
+              tests:
+                - not_null
+            - name: athlete_id
+              description: "Athlete unique identifier"
+              tests:
+                - not_null
+            - name: athlete_name
+              description: "Athlete short name"
+              tests:
+                - not_null
+            - name: total_score
+              description: "Surfer's final score for the heat"
+              tests:
+                - not_null
+        - name: results
+          description: "WSL heat results from the event result pages"
